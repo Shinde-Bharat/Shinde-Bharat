@@ -1,4 +1,9 @@
-<h2 align="left">Hi 👋! My name is Bharat Shinde</h2>
+<h2 align="left"👋 Hi, I'm Bharat Shinde
+
+💻 Software Engineer & Full Stack Developer
+⚛️ React.js | Node.js | JavaScript | SQL
+🎓 B.Tech IT Graduate from VIIT Pune
+🚀 Passionate about building scalable web applications</h2>
 
 ###
 

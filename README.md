@@ -1,70 +1,75 @@
-<h2 align="left"👋 Hi, I'm Bharat Shinde
+# Hi 👋, I'm Bharat Shinde
 
-💻 Software Engineer & Full Stack Developer
-⚛️ React.js | Node.js | JavaScript | SQL
-🎓 B.Tech IT Graduate from VIIT Pune
-🚀 Passionate about building scalable web applications</h2>
+### 💻 Software Engineer | Full Stack Developer
 
-###
+🎓 B.Tech Information Technology Graduate from VIIT Pune
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shinde-Bharat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shinde-Bharat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+🚀 Passionate about building scalable web applications and solving real-world problems through technology.
 
-###
+### 👨‍💻 About Me
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/129615281?v=4"  />
+* 🔭 Worked as a **Web Development Intern at Zplus Cyber Secure Technologies**
+* 💼 Former **Software Engineer Intern at Bluestock Fintech**
+* 🌱 Currently learning **Data Structures & Algorithms, System Design, and Cloud Technologies**
+* ⚡ Experienced in building Full Stack Applications using React.js, Node.js, JavaScript, SQL, MySQL, and MongoDB
+* 📄 Published an IEEE Research Paper on AI-Based Resume Analysis & Skill Recommendation
+* 🤖 Built a Signature Forgery Detection System with **87.27% Accuracy**
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-</div>
+### 🛠️ Tech Stack
 
-###
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+</p>
 
+---
 
-<div align="left">
-  <a href="mailto:bharata2003@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://linkedin.com/in/bharat-shinde-/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
-</div>
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shinde-Bharat&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinde-Bharat&layout=compact&theme=tokyonight" />
+</p>
 
+---
 
-###
+### 🔗 Connect With Me
 
-<br clear="both">
+<p align="left">
+<a href="mailto:bharata2003@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<img src="https://raw.githubusercontent.com/Shinde-Bharat/Shinde-Bharat/output/snake.svg" alt="Snake animation" />
+<a href="https://linkedin.com/in/bharat-shinde-/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-###"# Shinde-Bharat" 
+<a href="https://github.com/Shinde-Bharat">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+### 🏆 Featured Projects
+
+* 🍞 Bakery E-Commerce Platform
+* ✍️ Signature Forgery Detection System
+* 📊 AI Resume Analyzer
+* 🏛️ Online Banquet Booking System
+
+---
+
+### 📈 Contribution Graph
+
+![Snake animation](https://raw.githubusercontent.com/Shinde-Bharat/Shinde-Bharat/output/snake.svg)

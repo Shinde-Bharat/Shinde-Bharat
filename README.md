@@ -37,9 +37,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shinde-Bharat&show_icons=true&theme=github_dark&cache_seconds=1800" height="170"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinde-Bharat&layout=compact&theme=github_dark&cache_seconds=1800" height="170"/>
+<img src="https://streak-stats.demolab.com?user=Shinde-Bharat&theme=github-dark"/>
 </p>
 
 ---

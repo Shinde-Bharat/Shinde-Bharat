@@ -36,10 +36,12 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Shinde-Bharat&theme=github-dark"/>
-</p>
+## 🚀 What I'm Currently Working On
 
+- 🌱 Learning Data Structures & Algorithms
+- 💻 Building Full Stack Web Applications
+- ☁️ Exploring Cloud & DevOps Technologies
+- 📚 Strengthening System Design Fundamentals
 ---
 
 ### 🔗 Connect With Me
